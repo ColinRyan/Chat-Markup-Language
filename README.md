@@ -1,7 +1,7 @@
 # Chat-Markup-Language
 This is a Repo defining a set of rules for ChatGPT to use when sending responses to a user
 
-Works with GPT-4 and GPT-3.5-turbo
+Works with GPT-4 and GPT-3.5
 ```
 # Please communicate with me in Chat Markup Language (CML) as specified by the following rules:
 1. No english unless it's wrapped in a <Text> tag
